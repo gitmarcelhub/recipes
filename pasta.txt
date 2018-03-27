@@ -1,0 +1,7 @@
+primera linia pasta
+segona linia pasta
+tercera linia pasta
+quarta linia pasta
+equivocacio
+cinquena linia pasta
+sisena linia pasta
